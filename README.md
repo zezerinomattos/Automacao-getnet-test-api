@@ -48,7 +48,7 @@ Certifique-se de que o Node.js e o npm estão instalados em sua máquina.
 Clone o repositório do projeto:
 
 1 - Clone o repositório do projeto:
-``` git clone <URL-DO-REPOSITORIO> ```
+``` git clone git@github.com:zezerinomattos/Automacao-getnet-test-api.git ```
 
 2 - Navegue até o diretório do projeto:
 ``` cd Automacao-getnet-test-api ```
