@@ -51,7 +51,7 @@ Clone o repositório do projeto:
 ``` git clone <URL-DO-REPOSITORIO> ```
 
 2 - Navegue até o diretório do projeto:
-``` cd teste-de-api ```
+``` cd Automacao-getnet-test-api ```
 
 3 - Instale as dependências do projeto:
 ``` npm install ```
